@@ -1,0 +1,29 @@
+/* STANDARD ELEMENTS */
+body {
+    height:auto;
+    width: 100%;
+    text-align: center;
+}
+
+/* CLASSES */
+.profile {
+    background-color: rgb(128, 165, 153);
+    margin: 0px 0px 50px 0px;
+    padding: 20px;
+}
+.img_profile {
+    border-radius: 50%;
+    height: 200px;
+}
+.profile_title {
+
+}
+
+.footer {
+    background-color:aliceblue;
+    padding: 20px
+    
+}
+.footer_link {
+    color:firebrick;
+}
